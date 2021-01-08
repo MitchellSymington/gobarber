@@ -12,5 +12,7 @@
 `$ yarn install`
 
 :four: Iniciar</br>
-`$ yarn start`</br>
+`$ npx react-native run ios/android`</br>
 
+:five: Restarta rápido</br>
+`$ yarn run ios/android`</br>
